@@ -6,8 +6,8 @@ require_once "vendor/autoload.php";
 
 use Twilio\Rest\Client;
 
-$sid = "ACc34280bfa5a34e2fa92487b89d2dfa7b";
-$token = "ca6ffa6afc431efe4d2e6315f0d6b8d1";
+$sid = "id din twilo";
+$token = "token din twilo";
 
 if (isset($_POST["login"])) {
     $email = $_POST["email"];
