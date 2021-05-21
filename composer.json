@@ -1,0 +1,8 @@
+{
+    "require": {
+        "twilio/sdk": "^6.18",
+        "symfony/validator": "^5.2",
+        "vlucas/valitron": "^1.4",
+      "ext-mysqli": "*"
+    }
+}
